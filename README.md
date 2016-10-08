@@ -55,8 +55,8 @@ ubuntu 14.04 64Bits VMware
 
     
 ##3 Summary
-1.Update environment before experiment is important.
-2.Sometimes we can't download from official site,use image website can help a lot.
+#####1.Update environment before experiment is important.
+#####2.Sometimes we can't download from official site,use image website can help a lot.
 
 
 
